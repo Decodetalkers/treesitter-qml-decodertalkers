@@ -1,3 +1,3 @@
-# tree-sitter-quick_check
+# tree-sitter-qml
 
-A grammar to test your Tree-sitter development workflow
+Treesitter train and test
